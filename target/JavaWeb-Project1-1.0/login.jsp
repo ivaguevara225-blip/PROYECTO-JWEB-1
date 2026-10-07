@@ -2,6 +2,7 @@
 <% request.setAttribute("tituloPagina", "Ingreso"); %>
 <%@include file="lib/header.jsp"%>
 <h1>Ingreso a la aplicación</h1>
+<h1>IPrueba de repositorio</h1>
 <form action="#" method="post">
     <label for="usuario">Usuario</label>
     <input type="text" id="usuario" name="usuario" required>
